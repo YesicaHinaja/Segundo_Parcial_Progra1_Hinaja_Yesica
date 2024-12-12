@@ -1,0 +1,24 @@
+
+{ 
+    "preguntas": [{
+        "nro_pregunta": 1,
+        "pregunta": "rojo o azul",
+        "respuestas": ["rojo","azul"]
+    },
+    {
+        "nro_pregunta": 2,
+        "pregunta": "blanco o negro",
+        "respuestas": ["blanco","negro"]
+    }
+    ],
+    "respuestas": [{
+        "correcta": ["sigue", 10],
+        "incorrecta": ["termina", 0]
+    }],
+    "comodines": [{
+        "next": ["mostrar resultado"],
+        "half": ["mostrar 2 respuestas"],
+        "reload": "cambiar pregunta"
+    }]
+
+}

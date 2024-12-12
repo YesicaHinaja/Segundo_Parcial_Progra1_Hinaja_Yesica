@@ -1,0 +1,24 @@
+{
+    "jugadores": [
+        {"0": {
+            "nombre": "Anna 👤",
+            "opcion": [1 , 2]
+        }
+    },
+        {"1": {
+            "nombre": "Zoe 👤 ",
+            "opcion": [1, 2]
+        }
+    },{
+        "2": {
+            "nombre": "Jk 👤 ",
+            "opcion": [1, 2]
+        }}
+        ,{
+        "3": {
+            "nombre": "wada 👤",
+            "opcion": [1, 2]
+        }
+    }
+    ]
+}
